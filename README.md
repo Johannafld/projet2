@@ -1,4 +1,5 @@
 Vertical Slider
+
 Ce projet est un curseur vertical construit en utilisant HTML, CSS et JavaScript. Il affiche une série de diapositives verticalement et permet à l'utilisateur de naviguer à travers elles en utilisant des boutons vers le haut et vers le bas. Chaque diapositive est composée d'une image, d'un titre correspondant et d'une description.
 
 Structure du projet
